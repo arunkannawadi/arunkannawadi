@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunkannawadi&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About me
 
 I am an [Associate Research Scholar](https://web.astro.princeton.edu/people/arun-kannawadi) at the Department of Astrophysical Sciences, Princeton University.
