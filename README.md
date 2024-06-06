@@ -16,9 +16,11 @@ You can learn more about me on my [personal website](http://arunkannawadi.github
 
 - Twitter: [@kjarunkj](https://twitter.com/kjarunkj)
 
+- Bluesky: [@astroarun](https://bsky.app/profile/astroarun.bsky.social)
+
 - Publications: [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=kannawadi&sort=citation_count%20desc%2C%20bibcode%20desc) or [Google Scholar](https://scholar.google.com/citations?user=QoX9bu8AAAAJ&hl=en)
 
-- Github: You are already here!
+- GitHub: You are already here!
 
 
 <!--
