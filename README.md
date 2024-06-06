@@ -6,7 +6,7 @@ I am currently an Assistant Research Professor of Physics at Duke University and
 I primarily work on the algorithms and software for the Science Pipelines of the [Vera C. Rubin Observatory](www.lsst.org)🔭, formerly known as the [LSST](http://github.com/lsst).
 My research interests are understanding the nature of dark matter and dark energy, both at a fundamental level and from a cosmological perspective.
 
-Most of my code are hosted in the [LSST](http://github.com/lsst) and [LSSTDESC]((http://github.com/lsstdesc)) repositories on Github.
+Most of my code are hosted in the [LSST](http://github.com/lsst) and [LSSTDESC](http://github.com/lsstdesc) repositories on Github.
 But you can find my fun side projects among my Github repositories.
 
 ### Contact
