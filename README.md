@@ -1,6 +1,6 @@
 ### About me
 
-I am currently an Assistant Research Professor of Physics at Duke University and was previously an [Associate Research Scholar](https://web.astro.princeton.edu/people/arun-kannawadi) at the Department of Astrophysical Sciences, Princeton University.
+I am currently an Assistant Research Professor of Physics at Duke University and was previously an Associate Research Scholar at the Department of Astrophysical Sciences, Princeton University.
 I primarily work on the algorithms and software for the Science Pipelines of the [Vera C. Rubin Observatory](www.lsst.org)🔭, formerly known as the [LSST](http://github.com/lsst).
 My research interests are understanding the nature of dark matter and dark energy, both at a fundamental level and from a cosmological perspective.
 
