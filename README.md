@@ -14,7 +14,7 @@ You can learn more about me on my [personal website](http://arunkannawadi.github
 
 - Bluesky: [@astroarun](https://bsky.app/profile/astroarun.bsky.social)
 
-- Publications: [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=kannawadi&sort=date%20desc%2C%20bibcode%20desc) or [Google Scholar]([https://scholar.google.com/citations?user=QoX9bu8AAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=QoX9bu8AAAAJ&view_op=list_works&sortby=pubdate))
+- Publications: [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=kannawadi&sort=date%20desc%2C%20bibcode%20desc) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=QoX9bu8AAAAJ&view_op=list_works&sortby=pubdate)
 
 - GitHub: You are already here!
 
